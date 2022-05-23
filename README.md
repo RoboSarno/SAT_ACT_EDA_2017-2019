@@ -2,7 +2,7 @@
 
 ## Problem Statment:
 
-- Since the ACT/SAT College Board has used these standardized testing scores for admission rank into colleges. However, after changing the format of the SAT participation and average scores in every state has changed year. My analysis aims to explore these specific changes in the performance of the SAT/ACT. I aim to assist College board gaining information regarding this change and supply answers to where College Board should focus SAT/ACT prep-course assistance.
+- Since the ACT/SAT College Board has used standardized testing scores for admission rank into colleges. However, after changing the format of the SAT participation and average scores in every state have changed year by year. My analysis aims to explore these specific changes in the performance of the SAT/ACT. My main goal is trying to assist College board in gaining information regarding this change and supply answers to where College Board should focus SAT/ACT prep-course assistance.
 
 ## ACT Data Dictionary:
 
